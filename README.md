@@ -7,3 +7,4 @@ FreeWay é um jogo divertido e desafiador, onde o jogador controla um carro em u
 Participar deste projeto foi uma experiência incrível, onde pude aprimorar minhas habilidades em programação e trabalhar em equipe com outras desenvolvedoras. Além disso, foi uma oportunidade única de aprender sobre desenvolvimento de jogos e explorar as possibilidades oferecidas pela biblioteca p5.js.
 
 
+Feito 2022
